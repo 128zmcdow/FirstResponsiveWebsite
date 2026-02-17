@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+
+.d-none d-md-block {
+    visibility: hidden;
+}
+@media (min-width: 20000px) {
+    .d-none d-md-block {
+        visibility: visible;
+    }
+}
