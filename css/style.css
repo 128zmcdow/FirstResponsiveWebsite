@@ -16,3 +16,43 @@ p {
         visibility: visible;
     }
 }
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
+
+.yellow {
+    color: rgb(155, 155, 50);
+}
+
+.orange {
+    color: orange;
+}
+
+.green {
+    color: green;
+}
+
+.teal {
+    color: rgb(42, 175, 175);
+}
+
+.navy {
+    color: darkblue;
+}
+
+.flame {
+    color: orangered;
+}
+
+.maroon {
+    color: maroon;
+}
+
+.kings {
+    color: gray;
+}
